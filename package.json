@@ -1,0 +1,8 @@
+{
+  "name": "nehas-homemades-customer",
+  "version": "1.0.0",
+  "description": "Customer storefront PWA",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
