@@ -1,0 +1,16 @@
+{
+  "name": "Neha's Homemades",
+  "short_name": "Neha's Homemades",
+  "start_url": "/nehas_homemades%20(2).html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FCFAF8",
+  "theme_color": "#FEDB71",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%23FEDB71'/%3E%3Ctext x='96' y='120' font-size='96' text-anchor='middle'%3E%F0%9F%91%A9%E2%80%8D%F0%9F%8D%B3%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

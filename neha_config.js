@@ -1,0 +1,5 @@
+window.NEHA_CONFIG = {
+  SUPABASE_URL: "https://avxkpyulullhtwmdacyv.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF2eGtweXVsdWxsaHR3bWRhY3l2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzODA3MzUsImV4cCI6MjA5NDk1NjczNX0.K_cZ2ii0SnFzgvgNa-zbn1geYdGVyWE09UY0RvQnodE",
+  WHATSAPP_NUMBER: "919005296099"
+};
